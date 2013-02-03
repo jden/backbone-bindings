@@ -1,6 +1,8 @@
 # Backbone Bindings [![Build Status](https://secure.travis-ci.org/amccloud/backbone-bindings.png)](http://travis-ci.org/amccloud/backbone-bindings]) #
 Bi-directional bindings between Backbone.View elements and Backbone.Model attributes.
 
+by [amccloud](https://github.com/amccloud) and put on npm by jden <jason@denizac.org>
+
 ## Example ##
 See some demo action here http://jsfiddle.net/T2MSu/3/
 ```javascript

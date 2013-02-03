@@ -1,0 +1,23 @@
+{
+  "name": "backbone-bindings",
+  "version": "0.1.0",
+  "description": "Bi-directional bindings between Backbone.View elements and Backbone.Model attributes",
+  "main": "backbone-bindings.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amccloud/backbone-bindings.git"
+  },
+  "keywords": [
+    "backbone"
+  ],
+  "author": "amccloud <andrew@amccloud.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "624c03b1f9b941df3bbd422880fa49801a0ca60e"
+}
